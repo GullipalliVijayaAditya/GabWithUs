@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794202599540",
+    "firebase_url": "https://gabwithus-f1545.firebaseio.com",
+    "project_id": "gabwithus-f1545",
+    "storage_bucket": "gabwithus-f1545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794202599540:android:5c1fb05c588d7e5d",
+        "android_client_info": {
+          "package_name": "com.example.android.gabwithus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794202599540-mirkqf96tid4ujrh0kl9qkihmubl9cie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.gabwithus",
+            "certificate_hash": "b99d880dd648de9810f6c33f092301a69c3fa93e"
+          }
+        },
+        {
+          "client_id": "794202599540-iklgceqcpom1imh1409qr7m6rifbq9bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY9smtZqeh7jwllpLTR3kD0hKO6yLAOYU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794202599540-iklgceqcpom1imh1409qr7m6rifbq9bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
